@@ -199,7 +199,7 @@ function getStats(myMat1) {
     return stats;
 }*/
 import { defineComponent } from "vue";
-//import bootstrap1Data from "@/data/fingertips1.js";
+import bootstrap1Data from "@/data/fingertips1.js";
 
 import UpperLeft from "./UpperLeft.vue";
 import UpperCenter from "./UpperCenter.vue";
